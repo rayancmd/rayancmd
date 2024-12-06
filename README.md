@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science Student Passionate web developer from Algeria</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayancmd&label=Profile%20views&color=0e75b6&style=flat" alt="rayancmd" /> </p>
 
-- ⚡Connect to my <a href="[https://www.linkedin.com/in/abasse-rayane-0b58302a4/](https://www.linkedin.com/in/abasse-rayane-0b58302a4/)"" target="blank" alt="rayan.abasse123" height="30" width="40" /></a>
+- ⚡Connect to my <a href="https://linkedin.com/in/abasse-rayane-0b58302a4/" target="blank"> alt="abasse-rayane-0b58302a4/" height="30" width="40" /></a>
 - 📫 How to reach me **rayan.info10@gmail.com**
 - ⚡ Fun fact **Serious at work**
 
