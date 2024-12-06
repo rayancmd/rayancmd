@@ -1,15 +1,9 @@
-<img align="right" alt="Coding" width="400" src="2wCEAAkGBw8PEBAQEBAVFRAQDxUQEA8QFQ8QFxUXFRUWFhUXFxYYHSggGBolGxUVITEhJSorLi4uGB81ODMtNygtLisBCgoKDg0OGhAQGy0lHyYrKy0tMi0tLS0vLSstLSstLi0tLS0tKy8tKy0tLS0tKystLS0tLS0vLS0tKy0tLTUtLf">
 <h1 align="center">Hi 👋, I'm Abasse Rayane</h1>
 <h3 align="center">A Computer Science Student Passionate web developer from Algeria</h3>
-<img align="right" alt="Coding" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayancmd&label=Profile%20views&color=0e75b6&style=flat" alt="rayancmd" /> </p>
 
-- ⚡Connect to my <a href="[https://www.linkedin.com/in/abasse-rayane-0b58302a4/](https://www.linkedin.com/in/abasse-rayane-0b58302a4/)" target="blank">
-
-- 📝 I regularly write articles on <a href="[https://www.facebook.com/rayan.abasse123](https://www.facebook.com/rayan.abasse123)" target="blank">
-
+- ⚡Connect to my <a href="[https://www.linkedin.com/in/abasse-rayane-0b58302a4/](https://www.linkedin.com/in/abasse-rayane-0b58302a4/)"" target="blank" alt="rayan.abasse123" height="30" width="40" /></a>
 - 📫 How to reach me **rayan.info10@gmail.com**
-
 - ⚡ Fun fact **Serious at work**
 
 <h3 align="left">Connect with me:</h3>
