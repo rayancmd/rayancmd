@@ -1,14 +1,12 @@
-<img align="right" alt="Coding" width="400" src=""C:\Users\ASUS\Downloads\github-header-image.png"">
-![Header](./your-header-image-name.png)
+<img align="right" alt="Coding" width="400" src="2wCEAAkGBw8PEBAQEBAVFRAQDxUQEA8QFQ8QFxUXFRUWFhUXFxYYHSggGBolGxUVITEhJSorLi4uGB81ODMtNygtLisBCgoKDg0OGhAQGy0lHyYrKy0tMi0tLS0vLSstLSstLi0tLS0tKy8tKy0tLS0tKystLS0tLS0vLS0tKy0tLTUtLf">
 <h1 align="center">Hi 👋, I'm Abasse Rayane</h1>
 <h3 align="center">A Computer Science Student Passionate web developer from Algeria</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=gif%20coder&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233%2F68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&tbnid=uYYa30tHbsaH2M&vet=12ahUKEwiGl_2-jZSKAxW-K_sDHZrIAfQQM3oFCIYBEAA..i&w=800&h=600&hcb=2&ved=2ahUKEwiGl_2-jZSKAxW-K_sDHZrIAfQQM3oFCIYBEAA">
-
+<img align="right" alt="Coding" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayancmd&label=Profile%20views&color=0e75b6&style=flat" alt="rayancmd" /> </p>
 
-- ⚡Connect to my [https://www.linkedin.com/in/abasse-rayane-0b58302a4/](https://www.linkedin.com/in/abasse-rayane-0b58302a4/)
+- ⚡Connect to my <a href="[https://www.linkedin.com/in/abasse-rayane-0b58302a4/](https://www.linkedin.com/in/abasse-rayane-0b58302a4/)" target="blank">
 
-- 📝 I regularly write articles on [https://www.facebook.com/rayan.abasse123](https://www.facebook.com/rayan.abasse123)
+- 📝 I regularly write articles on <a href="[https://www.facebook.com/rayan.abasse123](https://www.facebook.com/rayan.abasse123)" target="blank">
 
 - 📫 How to reach me **rayan.info10@gmail.com**
 
